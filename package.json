@@ -9,33 +9,33 @@
   "gxDependencies": [
     {
       "author": "why",
-      "hash": "QmRDaC5z6yXkXTTSWzaxs2sSVBon5RRCN6eNtMmpuHtKCr",
+      "hash": "QmSRe5UvVPLJ6LAtVH9gQZwEL4nbck5b5zNe4MChh3LJHk",
       "name": "go-merkledag",
-      "version": "1.0.13"
+      "version": "1.1.0"
     },
     {
       "author": "why",
-      "hash": "QmVNEJ5Vk1e2G5kHMiuVbpD6VQZiK1oS6aWZKjcUQW7hEy",
+      "hash": "QmcLmU3rW9jmxPf2SZuvS15Dhtji4TivmuEca58HTdPRBm",
       "name": "go-unixfs",
-      "version": "1.0.15"
+      "version": "1.1.0"
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmZFbDTY9jfSBms2MchvYM9oYRbAF19K7Pby47yDBfpPrb",
+      "hash": "QmcRoKTXnq18qQRZFa4jWwWvMQkxzWRpxCwcpCCFgnLUGi",
       "name": "go-cid",
-      "version": "0.8.0"
+      "version": "1.0.0"
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmX5CsuHyVZeTLxgRSYkgLSDQKb9UjE8xnhQzCEJWWWFsC",
+      "hash": "QmRurKMTJEe88d8LQHeDDqc1sBf4wZVJ8PvjVqu6gEw5ee",
       "name": "go-ipld-format",
-      "version": "0.5.8"
+      "version": "0.6.0"
     },
     {
       "author": "why",
-      "hash": "QmTKaiDxQqVxmA1bRipSuP7hnTSgnMSmEa98NYeS6fcoiv",
+      "hash": "QmXVEFLxXFzdV1HKRrZA7scrnsNhjHRSygPbboTZ4H7Tij",
       "name": "go-path",
-      "version": "1.0.13"
+      "version": "1.1.0"
     }
   ],
   "gxVersion": "0.12.1",
